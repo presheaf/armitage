@@ -60,3 +60,8 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+
+
+# exclude stuff starting with gnk_* to enable use of this for tournaments
+gnk_*
